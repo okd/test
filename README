@@ -1,5 +1,11 @@
 1.make clone at Git Bash -> git clone git@github:okd/test.git newdir
 
-2.changed README
+2.git branch test_branch
+
+3.changed README
+
+4.merge 
+
+
 
 
